@@ -1,5 +1,5 @@
 # iban_validation
-This app quickly checks whether an iban code is valid or not.<br/>
+This app quickly checks whether an IBAN code is valid or not.<br/>
 I set up the project using knowledge I attained from Sourcery Academy. For the IBAN validation , I looked for guides online in order to avoid any pitfalls within the functionality.<br/>
 
 ## Quick start
