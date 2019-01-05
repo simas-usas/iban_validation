@@ -1,0 +1,26 @@
+.home {
+    margin-top: 10em;
+    text-align: center;
+
+    .iban-code {
+        margin: 1em;
+
+        .iban-text {
+            width: 20em;
+        }
+    }
+
+    .buttons {
+        input {
+            display: none;
+        } 
+
+        .button {
+            margin: 0 0.5em;
+        }
+    }
+}
+
+.alert {
+    font-family: 'Arial Narrow', 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "stylelint-order",
+        "stylelint-scss",
+        "stylelint-selector-bem-pattern"
+    ],
+    "rules": {
+        "indentation": 4,
+        "order/properties-alphabetical-order": true
+    },
+    "syntax": "scss"
+}
